@@ -7,7 +7,7 @@ import vue from '@astrojs/vue'
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://markmap.org',
+    site: 'https://markmapu.js.org',
     integrations: [
         starlight({
             title: 'Markmap Universe',
